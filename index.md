@@ -1,6 +1,6 @@
 # Welcome to Drew's Programming Protfolio
 
-## Programing 1 Semester 1 Projects:
+## Programing 1 Semester 3 Projects:
 
 ### OOP Calculator
 Graphic based OOP calculator
