@@ -1,4 +1,4 @@
-# Welcome to Drew's Programming Protfolio
+# Welcome to Drew's Programming Portfolio
 
 ## Programing 1 Semester 3 Projects:
 
