@@ -1,6 +1,6 @@
 # Welcome to Drew's Programming Portfolio
 
-## Programing 1 Semester 3 Projects:
+## Semester 1 Projects:
 
 ### OOP Calculator
 Graphic based OOP calculator
@@ -23,7 +23,7 @@ Fun green screen saver
 
 [Source Code] (https://github.com/DrewCrou/Programing1Portfolio/tree/gh-pages/src/screensaver)
 
-## Programing 2 Semester 2 Projects:
+## Semester 2 Projects:
 
 ### ShapeTester
 Calculator for the volume of shperes, pyramids, and boxes
