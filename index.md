@@ -1,4 +1,4 @@
-# Welcome to Drew's Programming Portfolio
+# Welcome to Drew's Programming Portfolio | Drew Crouch | drew.crouch@protonmail.com
 
 ## Semester 1 Projects:
 
