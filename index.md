@@ -38,3 +38,8 @@ Fun convertion of english to pig latin
 ![PigLatin](https://github.com/DrewCrou/Programing1Portfolio/blob/gh-pages/images/PigLatin.png?raw=true)
 
 [Source Code] (https://github.com/DrewCrou/Programing1Portfolio/tree/gh-pages/src/PigLatin)
+
+### Chess
+Play a difficult but rewarding game!
+
+
